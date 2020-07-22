@@ -1,4 +1,4 @@
-# label_masking
+# label_masking_using_multi-stage_multi-head_attention
 A new method to use multi-head attention heads for sequence labeling 
 This repository contains the notebook of the code used for SEMEVAL 2020 Task 5: Detecting Counterfactuals
 The code ranked 2nd. It works competetively with some more intricate models like ALBERT and RoBERTa.
